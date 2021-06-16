@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+  }
+  #p1{
+    word-spacing: 10px;
+    font-size: 80px;
+    font-variant: small-caps;
+  }
+  #reason{
+    font-size: 50px;
+  }
+  #album{
+    border-style: solid;
+    border-color: Blue;
+    border:2px;
+    border-radius:80px;
+   padding:5px;
+    width:450px;
+    height:450px;
+  }
+  
